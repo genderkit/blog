@@ -23,7 +23,7 @@ We had a huge amount of information on Gender Construction Kit providing help an
 
 ### Our archive of UK documents
 
-As part of this update we've collected many, many more PDFs from all sorts of UK organisations, and we're now tracking more than 300 in our index. This is nearly double the number from a few months ago, and we're aware this is probably now the largest public archive of gender diversity material in the UK. We're taking care to ensure that all these publications are being backed up - who knows, in future maybe these will be part of a historical record of the changes taking place in the UK in the 2010s.
+As part of this update we've collected many, many more PDFs from all sorts of UK organisations, and we're now tracking more than 300 in [our index](http://genderkit.org.uk/publications). This is nearly double the number from a few months ago, and we're aware this is probably now the largest public archive of gender diversity material in the UK. We're taking care to ensure that all these publications are being backed up - who knows, in future maybe these will be part of a historical record of the changes taking place in the UK in the 2010s.
 
 ### Open source
 
