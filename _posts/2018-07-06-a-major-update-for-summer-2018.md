@@ -27,6 +27,6 @@ As part of this update we've collected many, many more PDFs from all sorts of UK
 
 ### Open source
 
-Finally: Gender Construction Kit is an open source project, and we welcome contributions - whether it is proofreading, fact checking, article submissions, illustrations, or to the code that runs the website. If you want to join in, come check out the project page on GitHub.
+Finally: Gender Construction Kit is an [open source project](http://github.com/genderkit/genderkit), and we welcome contributions - whether it is proofreading, fact checking, article submissions, illustrations, or to the code that runs the website. If you want to join in, come check out the project page on GitHub.
 
 As part of running the site, we maintain open source data sets listing UK gender organisations, publications, and books, with tags describing useful categories for the data. You're free to reuse these in your own projects - send us a message on Twitter or Facebook if you'd like to know more.
