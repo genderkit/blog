@@ -25,26 +25,36 @@ Here's our list of university gender policies. How does your uni do?
 *   [Newcastle University](https://www.ncl.ac.uk/diversity/assets/documents/trans-guidance-staff)
 *   [Nottingham Trent University](http://www4.ntu.ac.uk/equality-diversity-inclusion/document-uploads/181835.pdf)
 *   [Oxford Brookes University](https://www.brookes.ac.uk/Documents/Staff/HR/EDI/Transgender-and-gender-identity-equality-policy/)
+*   [Queen’s University Belfast](https://www.qub.ac.uk/directorates/HumanResources/EqualityandDiversityUnit/FileStore/Filetoupload,696694,en.pdf)
 *   [Royal Holloway University of London](https://intranet.royalholloway.ac.uk/ecampus/documents/pdf/welfare/guidance-on-transgender-issues-support-23.05.16.pdf)
 *   The Open University: [1](http://www.open.ac.uk/students/charter/sites/www.open.ac.uk.students.charter/files/files/gender-identity-policy-and-guidance.pdf) [2](http://www.open.ac.uk/foi/main/sites/www.open.ac.uk.foi.main/files/files/ecms/human-resources/g/gender-reassignment/Transgender-Staff-Guidance-HRG336.pdf)
 *   [The University of Edinburgh](https://www.ed.ac.uk/files/atoms/files/trans_equality_policy.pdf)
 *   [The University of Nottingham](https://www.nottingham.ac.uk/hr/guidesandsupport/equalityanddiversitypolicies/documents/guidance-on-supporting-trans-staff.pdf)
+*   [The University of Warwick](https://warwick.ac.uk/services/equalops/transandgenderreassignment/58933_trans_awareness_guide_2017_-_printed_version.pdf)
 *   UCL - University College London: [1](https://www.ucl.ac.uk/human-resources/sites/human-resources/files/trans_guidance_students.pdf) [2](https://www.ucl.ac.uk/human-resources/sites/human-resources/files/trans_guidance_1.pdf)
 *   [UWE Bristol: University of the West of England](http://www2.uwe.ac.uk/services/Marketing/about-us/Equalityanddiversity/pdf/UWE_TRANS_POLICY.pdf)
+*   [Ulster University](https://www.ulster.ac.uk/__data/assets/pdf_file/0013/123151/Trans-policy.pdf)
+*   [University of Bedfordshire](https://www.beds.ac.uk/__data/assets/pdf_file/0004/551137/Transgender-Policy-29-06-17-v5.pdf)
 *   [University of Birmingham](https://www.bhconnected.org.uk/sites/bhconnected/files/Brighton%20%26%20Hove%20Trans%20Needs%20Assessment%202015.pdf)
 *   [University of Central Lancashire](https://www.uclan.ac.uk/students/assets/files/Student_Transgender_Policy.pdf)
 *   [University of Derby](https://www.derby.ac.uk/media/derbyacuk/contentassets/documents/academicregulations/University-Procedure-for-supporting-transgender-students-March-2018.pdf)
 *   [University of Essex](https://www1.essex.ac.uk/outreach/documents/transgender-guidance.pdf)
+*   [University of Kent](https://www.kent.ac.uk/hr-equalityanddiversity/protected-characteristics/resources/transgender/gritw-guidetl%2008012016.pdf)
+*   [University of Leeds](https://equality.leeds.ac.uk/wp-content/uploads/sites/64/2011/04/Trans-equality-policy-statement_Final.pdf)
 *   [University of London](https://london.ac.uk/sites/default/files/uploads/Gender-Reassignment-and-Trans-Equality-Policy.pdf)
 *   [University of Oxford](http://www.admin.ox.ac.uk/media/global/wwwadminoxacuk/localsites/equalityanddiversity/documents/transgender/180123_Transgender_guidance_FINAL.pdf)
+*   [University of Portsmouth](http://policies.docstore.port.ac.uk/policy-037.pdf?_ga=2.171535976.938247422.1522046115-437979605.1521475011)
 *   [University of Southampton](https://cdn.southampton.ac.uk/assets/imported/transforms/content-block/UsefulDownloads_Download/6E04F4E8E8DD4306A6DA53C9D8D3DDDD/Gender%20dysphoria%20policy.pdf)
+*   [University of Strathclyde](https://www.strath.ac.uk/media/ps/sees/equality/Supporting_trans_students_and_Staff_FAQs_web_May_2014.pdf)
+*   [University of Sunderland](https://services.sunderland.ac.uk/images/services/hr2015/documents/Staff%20Transgender%20%202016.pdf)
 *   [University of Surrey](https://www.surrey.ac.uk/sites/default/files/trans-policy-and-guidance.pdf)
 *   [University of West London](https://www.uwl.ac.uk/sites/default/files/transgender_policy_and_guidance_2017_may_2017.pdf)
 *   University of Winchester: [1](https://www.winchester.ac.uk/about-us/leadership-and-governance/policies-and-procedures/?download=true&id=305) [2](https://www.winchester.ac.uk/about-us/leadership-and-governance/policies-and-procedures/?download=true&id=255)
 *   University of the West of England: [1](http://www2.uwe.ac.uk/services/Marketing/about-us/Equalityanddiversity/pdf/Trans_staff_guide.pdf) [2](http://www2.uwe.ac.uk/services/Marketing/about-us/Equalityanddiversity/pdf/Trans-student-guidance.pdf)
+*   York St John University: [1](https://www.yorksj.ac.uk/media/content-assets/equality-and-diversity/documents/Trans-Inclusive-Policy-Statement---Final.pdf) [2](https://www.yorksj.ac.uk/media/content-assets/equality-and-diversity/documents/Trans_Inclusive_Guide---Final.pdf)
 *   [ual: university of the arts london](http://www.arts.ac.uk/media/arts/about-ual/diversity/documents/UAL-Guide-for-Trans-Students.pdf)
 
-Let us know if there is a policy that's not on the list!
+Let us know if there is a policy you know about that's not on the list!
 
 ### Unis aren't the only people involved
 

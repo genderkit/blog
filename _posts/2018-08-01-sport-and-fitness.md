@@ -20,7 +20,7 @@ All of the biggest sports organisations have now published at least _some_ infor
 *   **Tennis:** LTA British Tennis have published their [Policy and guidance on trans people playing tennis](https://www.lta.org.uk/globalassets/about-lta/equality--diversity/lta-transgender-inclusion-policy.pdf)
 *   **Hockey:** England Hockey have produced a [Policy and Procedures for trans or transgender hockey players](http://www.englandhockey.co.uk/core/core_picker/download.asp?id=16231)
 *   **Netball:** England Netball also have [guidance](https://www.englandnetball.co.uk/app/uploads/2016/03/Trans-Guidance-March-2017.docx).
-*   **Badminton:** Badminton England provide [Guidance for Badminton Clubs on welcoming transsexual players.](https://www.badmintonengland.co.uk/core/core_picker/download.asp?id=20098)
+*   **Badminton:** Badminton England provide [Guidance for Badminton Clubs on welcoming transsexual players.](https://www.badmintonengland.co.uk/media/5826/guidance_on_welcoming_transsexual_people_to_your_badminton_club_july_14.pdf)
 *   **Rugby:** RFU have [Rugbysafe Essential Guide: Transgender, Transsexual and Gender Dysphoria](http://www.englandrugby.com/mm/Document/MyRugby/Education/01/32/50/43/TransgenderTranssexual%28RugbySafeEssentialGuide%29May2017FINAL_Neutral.pdf).
 *   **Cricket:** the International Cricket Council now has a [Gender Recognition Policy](https://pulse-static-files.s3.amazonaws.com/ICC/document/2017/02/23/ec8dfc6e-0056-4572-997a-d83f91246047/ICC-Gender-Recognition-Policy-effective-from-20-February-2017.pdf).
 
