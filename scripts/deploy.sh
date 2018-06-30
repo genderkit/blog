@@ -9,9 +9,11 @@
 cd /vagrant
 mkdir live
 cd live
+eval $(ssh-agent -s)
+ssh-add ~/id_rsa
 git clone git@github.com:genderkit/blog.git
 cd blog
 bundle install
 bundle exec jekyll build --config /vagrant/live/blog/_config-live.yml
-aws s3 sync ./_site/ s3://blog.genderkit.org.uk/
+~/.local/bin/aws s3 sync ./_site/ s3://blog.genderkit.org.uk/
 rm -rv /vagrant/live
