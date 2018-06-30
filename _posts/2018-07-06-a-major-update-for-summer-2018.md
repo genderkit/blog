@@ -2,7 +2,6 @@
 layout: post
 title: A major update for summer 2018
 date: 2018-06-06 18:00:00 +0000
-categories: test
 ---
 
 We're coming up to nearly a year of Gender Construction Kit and we're introducing some new sections - and some changes that should help people find what they're looking for.

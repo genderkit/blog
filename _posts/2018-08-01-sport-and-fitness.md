@@ -2,7 +2,6 @@
 layout: post
 title: Making UK sport and fitness gender diverse
 date: 2018-06-06 18:00:00 +0000
-categories: test
 ---
 
 In the last few years the UK has made huge strides towards being able to include people of all gender identities and histories in sport and fitness activities — whether trans, nonbinary, or otherwise gender non-conforming.

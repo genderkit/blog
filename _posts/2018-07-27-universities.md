@@ -2,7 +2,6 @@
 layout: post
 title: How well does your university support its gender diverse student body?
 date: 2018-06-06 18:00:00 +0000
-categories: test
 ---
 
 ![Pictures of several trans-related university publications]({{ "/assets/images/uni-publications.jpg" | absolute_url | replace: '0.0.0.0', '127.0.0.1' }})
