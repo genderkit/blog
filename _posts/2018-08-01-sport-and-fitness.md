@@ -1,7 +1,11 @@
 ---
 layout: post
 title: Making UK sport and fitness gender diverse
+description: What’s the current situation for trans, nonbinary, or otherwise gender non-conforming people in 2018? And what do you need to know if you want to get into sport?
 date: 2018-06-06 18:00:00 +0000
+feature:
+  image: /assets/images/0_CaEWIZx8cPhgw-Bo.jpg.jpg
+  caption: A person lane swimming in a pool, wearing a cap
 ---
 
 In the last few years the UK has made huge strides towards being able to include people of all gender identities and histories in sport and fitness activities — whether trans, nonbinary, or otherwise gender non-conforming.
@@ -40,7 +44,7 @@ United Kingdom Athletics have published a [Transgender Policy — Guidance for A
 
 ### Swimming
 
-![A person lane swimming in a pool, wearing a cap](https://cdn-images-1.medium.com/max/800/0*CaEWIZx8cPhgw-Bo)
+![A person lane swimming in a pool, wearing a cap](/assets/images/0_CaEWIZx8cPhgw-Bo.jpg.jpg)
 
 Many swimming pools and gyms now have cubicle based changing rooms and showers which may be more comfortable for you. You may want to research your local fitness facilities to find out if there are any with these kinds of facilities.
 

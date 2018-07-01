@@ -4,4 +4,8 @@
 
 layout: home
 title: Gender Construction Kit Blog
+description: News updates from the UK guide to changing things linked to gender
+feature:
+  image: /assets/images/opengraph.jpg
+  caption: Gender Construction Kit logo
 ---

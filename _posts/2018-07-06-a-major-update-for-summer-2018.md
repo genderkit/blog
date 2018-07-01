@@ -1,7 +1,11 @@
 ---
 layout: post
 title: A major update for summer 2018
+description: We're coming up to nearly a year of Gender Construction Kit and we're introducing some new sections - and some changes that should help people find what they're looking for.
 date: 2018-06-06 18:00:00 +0000
+feature:
+  image: /assets/images/help-section-2.jpg
+  caption: Screenshot of a new homepage section
 ---
 
 We're coming up to nearly a year of Gender Construction Kit and we're introducing some new sections - and some changes that should help people find what they're looking for.

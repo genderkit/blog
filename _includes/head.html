@@ -2,7 +2,49 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  {%- seo -%}
+  {% assign description = site.description %}
+  {% if page.description %}
+  	{% assign description = page.description %}
+  {% endif %}
+  <meta name="description" content="{{description}}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
+	<meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
+	<meta property="og:locale" content="en_GB" />
+	<meta property="og:description" content="{{ description }}" />
+	<meta name="twitter:description" content="{{ description }}" />
+	<meta property="og:site_name" content="Gender Construction Kit Blog" />
+	{% assign canonical = page.url | replace:'index.html','' %}
+	<meta property="og:url" content="{{ canonical | absolute_url }}" />
+
+	{% if page.collection == 'posts' %}
+	<meta property="og:type" content="article" />
+	{% endif %}
+
+	{% if page.feature %}
+		<meta property="og:image" content="{{ page.feature.image | absolute_url }}" />
+		<meta property="og:image:width" content="400" />
+		<meta property="og:image:height" content="300" />
+		<meta name="twitter:image" content="{{ page.feature.image | absolute_url }}" />
+		<meta name="twitter:image:alt" content="{{ page.feature.caption }}" />
+	{% else %}
+		<meta property="og:image:width" content="1200" />
+		<meta property="og:image:height" content="630" />
+		<meta name="twitter:image" content="{{ "/assets/favicons/android-chrome-512x512.png?v=BGBvJ99adG" | absolute_url }}" />
+	{% endif %}
+
+	{% capture canonical %}{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' | strip_slash }}{% endif %}{% endcapture %}
+	<link rel="canonical" href="{{ canonical | absolute_url }}">
+
+	<link rel="apple-touch-icon-precomposed" href="{{ site.baseurl }}/assets/favicons/apple-touch-icon.png?v=BGBvJ99adG">
+	<link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/assets/favicons/apple-touch-icon.png?v=BGBvJ99adG">
+	<link rel="icon" type="image/png" href="{{ site.baseurl }}/assets/favicons/favicon-32x32.png?v=BGBvJ99adG" sizes="32x32">
+	<link rel="icon" type="image/png" href="{{ site.baseurl }}/assets/favicons/favicon-16x16.png?v=BGBvJ99adG" sizes="16x16">
+	<link rel="manifest" href="{{ site.baseurl }}/assets/favicons/manifest.json?v=BGBvJ99adG">
+	<link rel="mask-icon" href="{{ site.baseurl }}/assets/favicons/safari-pinned-tab.svg?v=BGBvJ99adG" color="#6000ff">
+	<link rel="shortcut icon" href="{{ site.baseurl }}/assets/favicons/favicon.ico?v=BGBvJ99adG">
+	<meta name="msapplication-config" content="{{ site.baseurl }}/assets/favicons/browserconfig.xml?v=BGBvJ99adG">
+	<meta name="theme-color" content="#6600ff">
+
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link href="https://fonts.googleapis.com/css?family=Overpass:300,600" rel="stylesheet">
 </head>
