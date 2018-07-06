@@ -2,7 +2,7 @@
 layout: post
 title: How well does your university support its gender diverse student body?
 description: Trans, nonbinary, and other non-conforming students are everywhere - but what guidance has your university published about it?
-date: 2018-06-06 18:00:00 +0000
+date: 2018-07-27 01:00:00 +0000
 feature:
   image: /assets/images/uni-publications.jpg
   caption: Pictures of several trans-related university publications

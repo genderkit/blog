@@ -2,7 +2,7 @@
 layout: post
 title: Making UK sport and fitness gender diverse
 description: What’s the current situation for trans, nonbinary, or otherwise gender non-conforming people in 2018? And what do you need to know if you want to get into sport?
-date: 2018-06-06 18:00:00 +0000
+date: 2018-08-10 01:00:00 +0000
 feature:
   image: /assets/images/0_CaEWIZx8cPhgw-Bo.jpg.jpg
   caption: A person lane swimming in a pool, wearing a cap
