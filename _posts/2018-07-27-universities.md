@@ -25,7 +25,7 @@ Here's our list of university gender policies. How does your uni do?
 *   [Imperial College London](https://www.imperial.ac.uk/media/imperial-college/administration-and-support-services/equality/public/trans/Trans-Staff-Policy.pdf)
 *   [King's College London](https://www.kcl.ac.uk/governancezone/Assets/GovernanceLegal/Trans-Equality-Guidance.pdf)
 *   [LSE - The London School of Economics and Political Science](https://info.lse.ac.uk/staff/services/Policies-and-procedures/Assets/Documents/polTraStaStu.pdf)
-*   [Leeds Beckett University](https://www.aber.ac.uk/en/media/departmental/humanresources/Trans-statement-04-2017-final.pdf)
+*   [Leeds Beckett University](https://www.leedsbeckett.ac.uk/-/media/files/public-information/a-to-z-guides-and-support/nn_trans_equality_and_gender_identity_guidance_for_staff.pdf)
 *   [Newcastle University](https://www.ncl.ac.uk/diversity/assets/documents/trans-guidance-staff)
 *   [Nottingham Trent University](http://www4.ntu.ac.uk/equality-diversity-inclusion/document-uploads/181835.pdf)
 *   [Oxford Brookes University](https://www.brookes.ac.uk/Documents/Staff/HR/EDI/Transgender-and-gender-identity-equality-policy/)
@@ -39,9 +39,9 @@ Here's our list of university gender policies. How does your uni do?
 *   [UWE Bristol: University of the West of England](http://www2.uwe.ac.uk/services/Marketing/about-us/Equalityanddiversity/pdf/UWE_TRANS_POLICY.pdf)
 *   [Ulster University](https://www.ulster.ac.uk/__data/assets/pdf_file/0013/123151/Trans-policy.pdf)
 *   [University of Bedfordshire](https://www.beds.ac.uk/__data/assets/pdf_file/0004/551137/Transgender-Policy-29-06-17-v5.pdf)
-*   [University of Birmingham](https://www.bhconnected.org.uk/sites/bhconnected/files/Brighton%20%26%20Hove%20Trans%20Needs%20Assessment%202015.pdf)
+*   [University of Birmingham](https://intranet.birmingham.ac.uk/collaboration/equality/documents/Staff-policies-and-guidance/UoB-Trans-guidance-for-staff-and-students.pdf)
 *   [University of Central Lancashire](https://www.uclan.ac.uk/students/assets/files/Student_Transgender_Policy.pdf)
-*   [University of Derby](https://www.derby.ac.uk/media/derbyacuk/contentassets/documents/academicregulations/University-Procedure-for-supporting-transgender-students-March-2018.pdf)
+*   [University of Derby](https://www.derby.ac.uk/media/derbyacuk/assets/departments/the-registry/academic-regulations/F---University-Procedure-for-supporting-transgender-students-March-2018.pdf)
 *   [University of Essex](https://www1.essex.ac.uk/outreach/documents/transgender-guidance.pdf)
 *   [University of Kent](https://www.kent.ac.uk/hr-equalityanddiversity/protected-characteristics/resources/transgender/gritw-guidetl%2008012016.pdf)
 *   [University of Leeds](https://equality.leeds.ac.uk/wp-content/uploads/sites/64/2011/04/Trans-equality-policy-statement_Final.pdf)
@@ -56,7 +56,7 @@ Here's our list of university gender policies. How does your uni do?
 *   University of Winchester: [1](https://www.winchester.ac.uk/about-us/leadership-and-governance/policies-and-procedures/?download=true&id=305) [2](https://www.winchester.ac.uk/about-us/leadership-and-governance/policies-and-procedures/?download=true&id=255)
 *   University of the West of England: [1](http://www2.uwe.ac.uk/services/Marketing/about-us/Equalityanddiversity/pdf/Trans_staff_guide.pdf) [2](http://www2.uwe.ac.uk/services/Marketing/about-us/Equalityanddiversity/pdf/Trans-student-guidance.pdf)
 *   York St John University: [1](https://www.yorksj.ac.uk/media/content-assets/equality-and-diversity/documents/Trans-Inclusive-Policy-Statement---Final.pdf) [2](https://www.yorksj.ac.uk/media/content-assets/equality-and-diversity/documents/Trans_Inclusive_Guide---Final.pdf)
-*   [ual: university of the arts london](http://www.arts.ac.uk/media/arts/about-ual/diversity/documents/UAL-Guide-for-Trans-Students.pdf)
+*   [ual: university of the arts london](https://www.arts.ac.uk/__data/assets/pdf_file/0014/41153/UAL-Guide-for-Trans-Students.pdf)
 
 Let us know if there is a policy you know about that's not on the list!
 
@@ -68,9 +68,7 @@ Of course, it's not just universities who are the only people who have a respons
 
 If you're postgraduate research student or researcher, UKRI (the organisation that contains the Research Councils) have published [guidance on how transgender researchers should be supported](https://www.ukri.org/files/termsconditions/rcukukriterms/transgender-employees-in-the-work-place-pdf/).
 
-![NUS Trans Campaign logo]({{ "/assets/images/nus-trans.jpg" | absolute_url | replace: '0.0.0.0', '127.0.0.1' }})
-
-The NUS also have a dedicated [NUS Trans Campaign](http://www.twitter.com/nus_trans) that represents trans students. There are also active local student trans organisations like the ones at [Durham](http://trans.durhamlgbta.org.uk/), [Huddersfield](http://www.twitter.com/HudSUTrans), and [University of Manchester](http://www.twitter.com/UoMtrans).
+There are active local student trans organisations like the ones at [Durham](http://trans.durhamlgbta.org.uk/), [Huddersfield](http://www.twitter.com/HudSUTrans), and [University of Manchester](http://www.twitter.com/UoMtrans).
 
 ![Covers of two publications about trans activism]({{ "/assets/images/activism.jpg" | absolute_url | replace: '0.0.0.0', '127.0.0.1' }})
 
