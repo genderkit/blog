@@ -10,7 +10,7 @@ feature:
 
 In the last few years the UK has made huge strides towards being able to include people of all gender identities and histories in sport and fitness activities — whether trans, nonbinary, or otherwise gender non-conforming.
 
-Thanks partly to the work of organisations like [Trans Girls Can](http://transgirlscan.tumblr.com/), [Gendered Intelligence](http://genderedintelligence.co.uk/) and [GIRES](http://www.gires.org.uk/) working with them, sports and fitness organisations, venues, and clubs have started to educate their staff and members in how they can help.
+Thanks partly to the work of organisations like [Trans Girls Can](https://transgirlscan.tumblr.com/), [Gendered Intelligence](http://genderedintelligence.co.uk/) and [GIRES](http://www.gires.org.uk/) working with them, sports and fitness organisations, venues, and clubs have started to educate their staff and members in how they can help.
 
 So: what’s the current situation in 2018? And what do you need to know if you want to get into sport?
 
@@ -84,7 +84,7 @@ There’s loads of fun active pastimes you can get into if you think outside of 
 *   rollerblading
 *   watersports
 
-If you're more of a supporter than a participant, there's also the [Trans and Non-binary Football Supports Group](https://twitter.com/tnbfsg) on Twitter.
+If you're more of a supporter than a participant, there's also the [Trans and Non-binary Football Supporters Group](https://twitter.com/tnbfsg) on Twitter.
 
 ### More information
 
