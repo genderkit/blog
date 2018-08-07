@@ -2,7 +2,7 @@
 layout: post
 title: Making UK sport and fitness gender diverse
 description: What’s the current situation for trans, nonbinary, or otherwise gender non-conforming people in 2018? And what do you need to know if you want to get into sport?
-date: 2018-08-10 01:00:00 +0000
+date: 2018-08-07 01:00:00 +0000
 feature:
   image: /assets/images/0_CaEWIZx8cPhgw-Bo.jpg.jpg
   caption: A person lane swimming in a pool, wearing a cap
@@ -84,10 +84,18 @@ There’s loads of fun active pastimes you can get into if you think outside of 
 *   rollerblading
 *   watersports
 
+If you're more of a supporter than a participant, there's also the [Trans and Non-binary Football Supports Group](https://twitter.com/tnbfsg) on Twitter.
+
 ### More information
 
 Want to know more about supporting gender diverse groups? Our website, [Gender Construction Kit](http://genderkit.org.uk/) could be exactly what you are looking for. We’ve got a range of information for different audiences available from our front page:
 
 ![Screenshot from the Gender Construction Kit website]({{ "/assets/images/supporting-grid.png" | absolute_url | replace: '0.0.0.0', '127.0.0.1' }})
 
-[Go take a look](http://genderkit.org.uk/)! Our site is UK-focused and links to over 300 free PDFs published by UK organisations to download.
+[Go take a look](http://genderkit.org.uk/)! Our site is UK-focused and links to over 300 free PDFs published by UK organisations to download. 
+
+We believe people should be able to change things linked to gender — anything they need, to any mix they want, for as long as they like.
+
+![](https://cdn-images-1.medium.com/max/800/1*oP0dKWJ9UCbWNWHj1ARoYQ.png) 
+
+[http://genderkit.org.uk/](http://genderkit.org.uk/)!
