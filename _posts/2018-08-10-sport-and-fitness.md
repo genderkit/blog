@@ -44,7 +44,7 @@ United Kingdom Athletics have published a [Transgender Policy — Guidance for A
 
 ### Swimming
 
-![A person lane swimming in a pool, wearing a cap](/assets/images/0_CaEWIZx8cPhgw-Bo.jpg.jpg)
+![A person lane swimming in a pool, wearing a cap](/assets/images/0_CaEWIZx8cPhgw-Bo.jpg)
 
 Many swimming pools and gyms now have cubicle based changing rooms and showers which may be more comfortable for you. You may want to research your local fitness facilities to find out if there are any with these kinds of facilities.
 
@@ -98,4 +98,4 @@ We believe people should be able to change things linked to gender — anything 
 
 ![](https://cdn-images-1.medium.com/max/800/1*oP0dKWJ9UCbWNWHj1ARoYQ.png) 
 
-[http://genderkit.org.uk/](http://genderkit.org.uk/)!
+[Click here for more information!](http://genderkit.org.uk/)
