@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What UK GPs and nurses need to know to help their gender diverse patients
-description: Here's a quick summary of the most important guidance out there for how to support trans, nonbinary, and other gender non-conforming people
+description: Here's a quick summary of the most important guidance from UK organisations about how to support trans, nonbinary, and other gender non-conforming people
 date: 2018-09-03 01:00:00 +0000
 feature:
   image: assets/images/medical.jpg
