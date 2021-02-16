@@ -77,7 +77,6 @@ h1, h2, h3, h4, h5, h6
 
 main
 {
-	border-top: 5px solid $brand-color;
 }
 
 img
@@ -117,3 +116,29 @@ img
 
   height: 100%;
 } 
+
+.header {
+  background-image: url('/assets/images/arrowback6.jpg');
+  background-repeat: no-repeat;
+  background-color: black;
+  background-size: cover;
+  background-position: center center;
+  display: flex;
+  justify-content: space-between;
+  img {
+    margin: 0;
+    padding: 0;
+    width: 12rem;
+    height: 6rem;
+  }
+  a {
+    display: inline-block;
+  }
+  .menuitem {
+    margin: auto 1em;
+    font-size: 14pt;
+    color: white;
+  }
+}
+
+
