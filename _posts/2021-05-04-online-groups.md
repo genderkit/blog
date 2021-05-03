@@ -12,8 +12,9 @@ feature:
 
 Photo by [Chris Montgomery](https://unsplash.com/photos/smgTvepind4) on Unsplash
 
-Some intro text goes here.
+During the coronavirus pandemic, many of the in-person support groups for UK trans, non-binary, and gender nonconforming people have moved to online platforms like Zoom. If you've not been able to go to a local support group - maybe because you don't have a local group, or haven't been able to attend it - it's a great time to try joining in from the comfort of your own home.
 
+We contacted groups from across the UK, and many are really keen for people from outside of their local areas to join in. Each group has a unique community - why not try some of these and see which suits you? 
 
 ### Gendered Intelligence
 
@@ -23,7 +24,7 @@ The many youth groups run by Gendered Intelligence have moved online due to the 
 
 > "We have people from across the UK joining our groups now. We are aiming to return service in-person from June onwards, but are looking to keep some online services running for exactly this reason that we're now providing a service for people outside our local groups."
 
-Different groups cater for different age ranges, with some available to people as young as 11, while others access up to 20 or even older.
+Different groups cater for different age ranges, with some available to people as young as 11, while others are for people up to 20 or even older.
 
 You can find out more about the groups on [the Gendered Intelligence website](http://genderedintelligence.co.uk/support/trans-youth/groups).
 
@@ -33,11 +34,7 @@ Spectra London's transgender and non-binary social groups are still running onli
 
 > "When we took the groups online, we realised that there was a huge need across the UK for social groups as there is a lack of support due to groups either closing due to Covid19, or just a lack of support in rural areas... we recently updated our accessibility support so can now offer subtitles and audio description as needed."
 
-![Spectra London Trans Group poster](/assets/images/Trans group accessible poster.png)
-
-There is also a group for nonbinary people:
-
-![Spectra London NB Group poster](/assets/images/NB accessible poster.png)
+![Spectra London Trans Group posters](/assets/images/spectra-posters.png)
 
 You can find out more about the groups on [the Spectra London website](https://spectra-london.org.uk/trans-gender-services/trans-groups/online-group/).
 
