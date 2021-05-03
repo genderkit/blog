@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Finding community during coronavirus
-description: TODO
+description: Find out about online support groups for trans, nonbinary, and gender nonconforming people that are welcoming people from anywhere in the UK 
 date: 2021-05-01 01:00:00 +0000
 feature:
   image: /assets/images/chris-montgomery-smgTvepind4-unsplash.jpg
@@ -61,4 +61,10 @@ You can join both meetings using [this link](https://us02web.zoom.us/j/775836838
 
 There is also the offer of some one-to-one meetings on-line (by Zoom, Facebook Messenger or Skype). For more details please contact Kathy Dear: kathy@uniquetg.org.uk, Jenny-Anne jennyanne@btinternet.com, or phone on 01745-337144.
 
+### Other places to consider
 
+If you're under 25, you could try joining one of the three online communities run by Mermaids which are open to people from across the UK. There's one for people aged 12-15, one for 16-17, and one for 18-25. You'll need to complete the online application form on their page for [Kids and Young People](https://mermaidsuk.org.uk/young-people/) (look for the section saying Youth Community).
+
+If you're in **Greater Manchester only**, you can get in touch with [Connect Manchester](https://www.facebook.com/ConnectMCR) to join in on their Discord server. In **Cambridgeshire** only, you can joing in with online events run by [Encompass Network](http://encompassnetwork.org.uk/online-community-support-for-the-covid-19-quarantine/), and if you like in **Nottingham** you can join [Trans Space Notts](https://tsnnotts.wordpress.com/) online.
+
+Is your group operating online and you'd like people to join you from elsewhere in the country? Let us know by getting in touch on [Facebook](http://www.facebook.com/genderkit) or [Twitter](https://twitter.com/genderkit).
