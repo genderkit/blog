@@ -15,5 +15,5 @@ git clone git@github.com:genderkit/blog.git
 cd blog
 bundle install
 bundle exec jekyll build --config /vagrant/live/blog/_config-live.yml
-~/.local/bin/aws s3 sync ./_site/ s3://blog.genderkit.org.uk/
+aws s3 sync ./_site/ s3://blog.genderkit.org.uk/
 rm -rv /vagrant/live
